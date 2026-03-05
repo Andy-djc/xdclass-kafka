@@ -4,3 +4,5 @@ hello git modified again on branch master
 hello git modified again on branch hot-fix
 
 hello git modified on branch master in github
+
+hello git modified on new project
