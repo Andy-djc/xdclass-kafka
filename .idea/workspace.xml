@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93b1409c-e9f7-4440-aa04-5b7fdc2c8ee4" name="更改" comment="第三次提交">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="93b1409c-e9f7-4440-aa04-5b7fdc2c8ee4" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/xdclass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/xdclass/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
