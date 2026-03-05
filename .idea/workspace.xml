@@ -84,18 +84,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.KafkaAdminTest.detailTopicTest">
-    <configuration name="KafkaAdminTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="应用程序.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.xdclass.Main" />
       <module name="xdclass-kafka" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.xdclass.xdclasskafka.*" />
+          <option name="PATTERN" value="net.xdclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="net.xdclass.xdclasskafka" />
-      <option name="MAIN_CLASS_NAME" value="net.xdclass.xdclasskafka.KafkaAdminTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -166,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Main" />
         <item itemvalue="JUnit.KafkaAdminTest.listTopicTest" />
         <item itemvalue="JUnit.KafkaAdminTest.incrPartitionTopicTest" />
         <item itemvalue="JUnit.KafkaAdminTest.detailTopicTest" />
         <item itemvalue="JUnit.KafkaAdminTest.delTopicTest" />
-        <item itemvalue="JUnit.KafkaAdminTest" />
       </list>
     </recent_temporary>
   </component>
