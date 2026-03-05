@@ -18,6 +18,7 @@ public class Main {
         System.out.println("master test");
         System.out.println("hot-fox test");
         System.out.println("hot-fox test2");
+        System.out.println("hot-fox test3");
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
