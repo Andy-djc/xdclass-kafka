@@ -20,6 +20,7 @@ public class Main {
         System.out.println("hot-fox test2");
         System.out.println("hot-fox test3");
         System.out.println("hot-fox test4");
+        System.out.println("hot-fox test5");
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("i = " + i);
